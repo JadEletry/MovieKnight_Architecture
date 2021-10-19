@@ -6,5 +6,5 @@ Software design and architecture plans for a personal movie database.
 ## Project Information
 
 ### Title: Movie Knight
-### Group Members: Abbas Rizvi, Hamza Asif, Jad Eletry, Shahzhabe Mahmood
+### Group Members: Abbas Rizvi, Hamza Asif, Jad Eletry, Shahzabe Mahmood
 
