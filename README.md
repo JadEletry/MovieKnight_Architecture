@@ -9,6 +9,9 @@ Movie Knight is a program designed to allow users tomanage their library of movi
 
 [Use Case models](https://github.com/JadEletry/MovieKnight_Architecture/blob/main/Use%20Case%20Model)
 
+  - [Model](https://github.com/JadEletry/MovieKnight_Architecture/blob/main/Use%20Case%20Model/UseCaseModel.pdf)
+  - [Descriptions](https://github.com/JadEletry/MovieKnight_Architecture/blob/main/Use%20Case%20Model/UseCase_Descriptions.pdf)
+
 Quality Attributes associated with the use cases
 
 System Constraints associated with the use cases
