@@ -8,5 +8,7 @@ Software design and architecture plans for the Movie Knight movie database syste
 Movie Knight is a program designed to allow users tomanage their library of movies, and provides them with useful information related to each title.
 
 Use Case models
+
 Quality Attributes associated with the use cases
+
 System Constraints associated with the use cases
